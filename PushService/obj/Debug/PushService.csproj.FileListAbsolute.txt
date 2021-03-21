@@ -1,0 +1,11 @@
+E:\cs\PushService\PushService\obj\Debug\PushService.csprojAssemblyReference.cache
+E:\cs\PushService\PushService\obj\Debug\PushService.Form1.resources
+E:\cs\PushService\PushService\obj\Debug\PushService.Properties.Resources.resources
+E:\cs\PushService\PushService\obj\Debug\PushService.Toast.resources
+E:\cs\PushService\PushService\obj\Debug\PushService.csproj.GenerateResource.cache
+E:\cs\PushService\PushService\bin\Debug\PushService.exe.config
+E:\cs\PushService\PushService\bin\Debug\PushService.exe
+E:\cs\PushService\PushService\bin\Debug\PushService.pdb
+E:\cs\PushService\PushService\obj\Debug\PushService.csproj.CoreCompileInputs.cache
+E:\cs\PushService\PushService\obj\Debug\PushService.exe
+E:\cs\PushService\PushService\obj\Debug\PushService.pdb

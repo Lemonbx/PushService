@@ -1,0 +1,5 @@
+# Folder config file
+Desktop.ini
+!*.exe
+!*.dll
+!*.bak
